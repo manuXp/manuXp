@@ -1,12 +1,11 @@
-#  sobre mim <3
+#  ME 
 
 
-- 👋 olá, meu nome é @manuXp
-- 👍 tchu
-- 👀 ponto 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 😎 დ manuXp 
+- 🏳️‍🌈 么 anime,series and games 
+- 🌱 ♫ listen to music 
+- 💞️ ☾ watch the moon
+- 📫 〩 malungos 
 
 <!---
 manuXp/manuXp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
