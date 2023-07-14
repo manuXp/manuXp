@@ -2,10 +2,10 @@
 
 
 - 😎 დ manuXp 
-- 🏳️‍🌈 么 anime,series and games 
+- 🏳️‍🌈 么 series
 - 🌱 ♫ listen to music 
 - 💞️ ☾ watch the moon
-- 📫 〩 malungos 
+  
 
 <!---
 manuXp/manuXp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
